@@ -1,2 +1,5 @@
 print("hi")
 print("Ramet")
+print("R")
+print("88")
+print("555")
